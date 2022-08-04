@@ -1,4 +1,4 @@
-.profile{
+.transactionHistory{
     background-color: rgb(230, 230, 230);
     margin: 60px;
     padding: 40px;
@@ -6,13 +6,18 @@
     
     border: 2px solid rgb(168, 168, 168) ;
     border-radius: 12px;
-}
-.avatar {
-   width: 200px;
+    
+
 }
 
-.description , .stats {
+
+
+.tr{
+    background-color: white;
     text-align: center;
-    border: 1px solid rgb(163, 163, 163);
-    border-radius: 6px;
+    width: 10px;
+    margin: 10px;
+    padding: 8px;
+    border: 2px solid black;
+    
 }
