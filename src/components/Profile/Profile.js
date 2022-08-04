@@ -5,17 +5,17 @@ import PropTypes from "prop-types";
 export default function Profile({ name, tag, location, avatar, stats }) {
   return (
     <div className={styles.profile}>
-      <div className="description">
-        <img
-          src={avatar}
-          alt="https://media.istockphoto.com/photos/funny-donkey-picture-id140473572?b=1&k=20&m=140473572&s=170667a&w=0&h=aXk-RHNWpGsyr6ETA0QFg8OkHOuqqSv_7eHlRKPhK8k="
-          className="avatar"
-        />
+      <div className={styles.description}>
+        {" "}
+        Profile
+        <br />
+        <br />
+        <img src={avatar} alt={tag} className={styles.avatar} />
         <p className="name">{name}</p>
         <p className="tag">{tag}</p>
         <p className="location">{location}</p>
       </div>
-      <ul className="stats">
+      <ul className={styles.stats}>
         <li>
           <span className="label">Followers</span>
           <span className="quantity">{stats.followers}</span>

@@ -1,3 +1,10 @@
 body{
-    background-color: rgb(255, 253, 220);
+    background: rgb(226,196,149);
+background: linear-gradient(0deg, rgba(226,196,149,1) 0%, rgba(255,251,228,1) 56%, rgba(255,253,238,1) 100%);
+background-attachment: fixed;
+font-size: 18px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#root{
+    display: flex;
 }

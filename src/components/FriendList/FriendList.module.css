@@ -1,0 +1,20 @@
+.item{
+    background-color: rgb(230, 230, 230);
+    margin: 8px;
+    padding: 8px;
+    width: 240px;
+    
+    border: 2px solid rgb(168, 168, 168) ;
+    border-radius: 12px;
+    text-align: center;
+    list-style: none;
+}
+.statusGreen{
+    color: green;
+    font-weight: 600;
+}
+
+.statuRed{
+   color: brown;
+   font-weight: 600;
+}

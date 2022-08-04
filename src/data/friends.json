@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/512/924/924874.png",
+      "name": "Vova",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://cdn-icons.flaticon.com/png/512/1785/premium/1785918.png?token=exp=1659616994~hmac=4be2b75ee48814433bde417532ef0bb4",
+      "name": "Sara",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://cdn-icons.flaticon.com/png/512/4202/premium/4202831.png?token=exp=1659616994~hmac=d013d85e0658b493975b88d1088c0c6c",
+      "name": "Mike",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://cdn-icons.flaticon.com/png/512/1211/premium/1211015.png?token=exp=1659616994~hmac=5526b38ad7bd15d4c1aa274cd525cd93",
+      "name": "Bob",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://cdn-icons.flaticon.com/png/512/706/premium/706830.png?token=exp=1659616994~hmac=ee61ae7ee624e772586c9eec9739392b",
+      "name": "Sveta",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]
