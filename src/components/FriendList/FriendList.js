@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 export default function FriendList({ friends }) {
   return (
-    <ul>
+    <ul className={styles.friendsListUl}>
       {friends.map(({ avatar, name, isOnline, id }) => (
         <li className={styles.item} key={id}>
           <span className={isOnline ? styles.statusGreen : styles.statuRed}>

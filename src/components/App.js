@@ -22,7 +22,7 @@ export default function App() {
       />
       <div>
         {" "}
-        <Statistics title="Title" stats={statistical} />
+        <Statistics title="Statistics" stats={statistical} />
         <Statistics stats={statistical} />
       </div>
       <FriendList friends={friends} />

@@ -7,7 +7,7 @@ export default function Profile({ name, tag, location, avatar, stats }) {
     <div className={styles.profile}>
       <div className={styles.description}>
         {" "}
-        Profile
+        <h2 className="title">Profile</h2>
         <br />
         <br />
         <img src={avatar} alt={tag} className={styles.avatar} />
