@@ -1,3 +1,22 @@
 body{
-    background-color: rgb(255, 253, 220);
+
+background: linear-gradient(0deg, rgb(235, 241, 243) 0%, rgb(197, 227, 235) 56%, rgb(183, 215, 233) 100%);
+background-attachment: fixed;
+font-size: 18px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
 }
+#root{
+    display: flex;
+    flex-wrap: wrap;
+
+    
+}
+ul{
+    background-color:  rgb(237, 241, 253);
+    border: 2px solid rgb(168, 168, 168);
+    border-radius: 8px;
+}
+

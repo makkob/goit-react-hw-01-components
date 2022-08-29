@@ -1,0 +1,10 @@
+.statistics{
+    background-color: rgb(230, 230, 230);
+    margin: 60px;
+    padding: 40px;
+    width: 160px;
+    
+    border: 2px solid rgb(168, 168, 168) ;
+    border-radius: 12px;
+    text-align: center;
+}

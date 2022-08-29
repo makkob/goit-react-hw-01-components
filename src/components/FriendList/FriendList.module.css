@@ -1,0 +1,26 @@
+.item{
+    background-color:  rgb(237, 241, 253);
+    margin: 8px;
+    padding: 8px;
+    width: 200px;
+    
+    border: 2px solid rgb(168, 168, 168) ;
+    border-radius: 12px;
+    text-align: center;
+    list-style: none;
+}
+.statusGreen{
+    color: green;
+    font-weight: 600;
+}
+
+.statuRed{
+   color: brown;
+   font-weight: 600;
+}
+.friendsListUl {
+    border: 2px solid rgb(168, 168, 168);
+    border-radius: 12px;
+    background-color:  rgb(230, 230, 230);
+   
+}

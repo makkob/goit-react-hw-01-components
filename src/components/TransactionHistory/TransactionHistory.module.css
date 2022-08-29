@@ -1,0 +1,26 @@
+.transactionHistory{
+    background-color: rgb(230, 230, 230);
+    margin: 60px;
+    padding: 40px;
+    width: 200px;
+    
+    border: 2px solid rgb(168, 168, 168) ;
+    border-radius: 12px;
+    
+
+}
+
+
+
+.tr{
+    background-color:  rgb(237, 241, 253);;
+
+  
+   
+    
+}
+td{
+    
+   padding: 2px;
+   border: 1px solid black
+}
